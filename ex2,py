@@ -1,0 +1,4 @@
+a= input("Enter your Name: ")
+res = a.upper()
+print("Name in Uppercase: ")
+print(res)
